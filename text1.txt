@@ -1,1 +1,2 @@
 this is file text 1
+More code added to text1.txt
