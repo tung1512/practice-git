@@ -1,2 +1,3 @@
 this is file text 1
-More code added to text1.txt
+More code added to text1.txt"update both file" 
+"Minor change to text1.txt" 
